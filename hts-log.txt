@@ -1,0 +1,55 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 17 Jul 2022 02:23:48 at https://oshinewptheme.com/v22/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://oshinewptheme.com/v22/ -O1 "C:\My Web Sites\oshiewptheme" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:26:10	Warning: 	Retry after error -4 (No data (connection closed)) at link oshinewptheme.com/v22/wp-content/uploads/sites/26/revslider/v22/dts-wild-007.jpg (from https://oshinewptheme.com/v22/)
+02:26:10	Warning: 	Retry after error -4 (No data (connection closed)) at link oshinewptheme.com/v22/wp-content/uploads/sites/26/revslider/v22/oshine-v22-0011.jpg (from https://oshinewptheme.com/v22/)
+02:26:10	Warning: 	Retry after error -4 (No data (connection closed)) at link oshinewptheme.com/v22/wp-content/uploads/sites/26/revslider/v22/dts-wild-005.jpg (from https://oshinewptheme.com/v22/)
+02:26:11	Error: 	"Not Found" (404) at link https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/plugins/oshine-modules/public/css/owl.video.play.png (from https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/plugins/oshine-modules/public/css/oshine-modules.min.css?ver=3.2)
+02:26:11	Error: 	"Not Found" (404) at link https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/plugins/oshine-modules/public/css/preloader.gif (from https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/plugins/oshine-modules/public/css/oshine-modules.min.css?ver=3.2)
+02:26:11	Warning: 	File not parsed, looks like binary: https://oshinewptheme.com/v22/wp-content/plugins/revslider/public/assets/css/openhand.cur
+02:26:11	Warning: 	File not parsed, looks like binary: https://oshinewptheme.com/v22/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+02:26:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/themes/oshin/fonts/icomoon/fonts/icomoon.eot? (from https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/themes/oshin/fonts/icomoon/style.min.css?ver=6.9.4)
+02:26:13	Error: 	"Not Found" (404) at link https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/themes/oshin/css/img/dots.png (from https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/themes/oshin/css/vendor/vendor.min.css?ver=6.9.4)
+02:26:13	Error: 	"Not Found" (404) at link https://oshinewptheme.com/v22/wp-content/themes/oshin/fonts/custom-fonts/hanskendrick-heavy-webfont.oft (from https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/themes/oshin/fonts/fonts.min.css?ver=6.9.4)
+02:26:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/themes/oshin/fonts/custom-fonts/hanskendrick-heavy-webfont.woff (from https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/themes/oshin/fonts/fonts.min.css?ver=6.9.4)
+02:26:14	Error: 	"Not Found" (404) at link https://oshinewptheme.com/v22/wp-content/themes/oshin/fonts/custom-fonts/hanskendrick-light-webfont.oft (from https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/themes/oshin/fonts/fonts.min.css?ver=6.9.4)
+02:26:15	Error: 	"Not Found" (404) at link https://oshinewptheme.com/v22/wp-content/themes/oshin/fonts/custom-fonts/hanskendrick-medium-webfont.oft (from https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/themes/oshin/fonts/fonts.min.css?ver=6.9.4)
+02:26:16	Error: 	"Not Found" (404) at link https://oshinewptheme.com/v22/wp-content/themes/oshin/fonts/custom-fonts/hanskendrick-regular-webfont.oft (from https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/themes/oshin/fonts/fonts.min.css?ver=6.9.4)
+02:26:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/plugins/masterslider/public/assets/css/skins/contrast-skin.png (from https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/plugins/masterslider/public/assets/css/masterslider.main.css?ver=3.2.14)
+02:26:16	Warning: 	Moved Permanently for https://oshinewptheme.com/v22/?p=52
+02:26:16	Warning: 	File has moved from https://oshinewptheme.com/v22/?p=52 to https://oshinewptheme.com/v22/about/
+02:26:16	Warning: 	Moved Permanently for https://oshinewptheme.com/v22/?p=21
+02:26:16	Warning: 	File has moved from https://oshinewptheme.com/v22/?p=21 to https://oshinewptheme.com/v22/portfolio/
+02:26:16	Error: 	"Bad Request" (400) at link https://oshinewptheme.com/v22/wp-admin/admin-ajax.php (from https://oshinewptheme.com/v22/portfolio/)
+02:26:16	Warning: 	Moved Permanently for https://oshinewptheme.com/v22/?p=18
+02:26:16	Warning: 	File has moved from https://oshinewptheme.com/v22/?p=18 to https://oshinewptheme.com/v22/portfolio/nature/
+02:26:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/uploads/sites/26/2015/11/dts-wild-008-75x50.jpg (from https://oshinewptheme.com/v22/portfolio/nature/)
+02:26:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/uploads/sites/26/2015/11/dts-wild-007-75x50.jpg (from https://oshinewptheme.com/v22/portfolio/nature/)
+02:26:17	Warning: 	Moved Permanently for https://oshinewptheme.com/v22/?p=19
+02:26:17	Warning: 	File has moved from https://oshinewptheme.com/v22/?p=19 to https://oshinewptheme.com/v22/portfolio/people/
+02:26:17	Warning: 	Moved Permanently for https://oshinewptheme.com/v22/?p=41
+02:26:17	Warning: 	File has moved from https://oshinewptheme.com/v22/?p=41 to https://oshinewptheme.com/v22/portfolio/places/
+02:26:17	Warning: 	Moved Permanently for https://oshinewptheme.com/v22/?p=20
+02:26:17	Warning: 	File has moved from https://oshinewptheme.com/v22/?p=20 to https://oshinewptheme.com/v22/portfolio/wedding/
+02:26:17	Warning: 	Moved Permanently for https://oshinewptheme.com/v22/?p=43
+02:26:17	Warning: 	File has moved from https://oshinewptheme.com/v22/?p=43 to https://oshinewptheme.com/v22/portfolio/wildlife/
+02:26:17	Warning: 	Moved Permanently for https://oshinewptheme.com/v22/?p=63
+02:26:17	Warning: 	File has moved from https://oshinewptheme.com/v22/?p=63 to https://oshinewptheme.com/v22/portfolio/maternity/
+02:26:17	Warning: 	Moved Permanently for https://oshinewptheme.com/v22/?p=56
+02:26:17	Warning: 	File has moved from https://oshinewptheme.com/v22/?p=56 to https://oshinewptheme.com/v22/contact/
+02:26:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/uploads/sites/26/2015/11/oshine-city-00.jpg (from https://oshinewptheme.com/v22/contact/)
+02:26:17	Warning: 	Retry after error -4 (No data (connection closed)) at link oshinewptheme.com/v22/wp-content/uploads/sites/26/revslider/v22/dts-wild-007.jpg (from https://oshinewptheme.com/v22/)
+02:26:19	Warning: 	Retry after error -4 (No data (connection closed)) at link oshinewptheme.com/v22/wp-content/uploads/sites/26/revslider/v22/oshine-v22-0011.jpg (from https://oshinewptheme.com/v22/)
+02:26:21	Warning: 	Retry after error -4 (No data (connection closed)) at link oshinewptheme.com/v22/wp-content/uploads/sites/26/revslider/v22/dts-wild-005.jpg (from https://oshinewptheme.com/v22/)
+02:26:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://21g6p436jemo16mo9n1a25yq-wpengine.netdna-ssl.com/v22/wp-content/uploads/sites/26/2015/11/oshine-city-00.jpg (from https://oshinewptheme.com/v22/contact/)
+02:26:22	Error: 	"No data (connection closed)" (-4) after 2 retries at link oshinewptheme.com/v22/wp-content/uploads/sites/26/revslider/v22/dts-wild-007.jpg (from https://oshinewptheme.com/v22/)
+02:26:22	Error: 	"No data (connection closed)" (-4) after 2 retries at link oshinewptheme.com/v22/wp-content/uploads/sites/26/revslider/v22/oshine-v22-0011.jpg (from https://oshinewptheme.com/v22/)
+02:26:22	Error: 	"No data (connection closed)" (-4) after 2 retries at link oshinewptheme.com/v22/wp-content/uploads/sites/26/revslider/v22/dts-wild-005.jpg (from https://oshinewptheme.com/v22/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 36 seconds : 254 links scanned, 219 files written (15322269 bytes overall) [10328339 bytes received at 66207 bytes/sec], 8160518 bytes transferred using HTTP compression in 106 files, ratio 28%, 8.0 requests per connection
+(11 errors, 33 warnings, 0 messages)
